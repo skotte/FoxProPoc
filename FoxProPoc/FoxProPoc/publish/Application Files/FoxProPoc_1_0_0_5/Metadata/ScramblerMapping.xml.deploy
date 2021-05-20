@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScrambleTable>
+  <Table Name="Accounts">
+    <Column Name="Account_no" ScramblingAlgorithm="Account_No"></Column>
+    <Column Name="Bank_Code" ScramblingAlgorithm="Bank_Code"></Column>
+    <Column Name="Descr" ScramblingAlgorithm="standard"></Column>
+    <Column Name="Appr_by" ScramblingAlgorithm="UserID"></Column>
+    <Column Name="TDA_Appr" ScramblingAlgorithm="UserID"></Column>
+    <Column Name="RollBy" ScramblingAlgorithm="UserID"></Column>
+    <Column Name="RollNewTransferAccount" ScramblingAlgorithm="Account_No"></Column> 
+  </Table>
+  <Table Name="Assets">
+    <Column Name="Descr" ScramblingAlgorithm="standard "></Column>
+    <Column Name="Asset_Memo" ScramblingAlgorithm="standard "></Column>
+    <Column Name="Ins_Memo" ScramblingAlgorithm="standard "></Column>
+    <Column Name="Ext_Memo" ScramblingAlgorithm="standard "></Column>
+  </Table>
+</ScrambleTable>

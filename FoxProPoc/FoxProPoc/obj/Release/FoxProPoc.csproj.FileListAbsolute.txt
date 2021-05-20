@@ -1,0 +1,12 @@
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\bin\Release\FoxProPoc.exe.config
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\bin\Release\FoxProPoc.exe.manifest
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\bin\Release\FoxProPoc.application
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\bin\Release\FoxProPoc.exe
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\bin\Release\FoxProPoc.pdb
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\obj\Release\FoxProPoc.csprojAssemblyReference.cache
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\obj\Release\FoxProPoc.csproj.CoreCompileInputs.cache
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\obj\Release\FoxProPoc.exe.manifest
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\obj\Release\FoxProPoc.application
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\obj\Release\FoxProPoc.exe
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\obj\Release\FoxProPoc.pdb
+C:\Projects\FoxProPoc\FoxProPoc\FoxProPoc\bin\Release\Metadata\ScramblerMapping.xml
