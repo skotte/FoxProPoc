@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ScrambleTable>
-  <Table Name="Accounts" PrimaryKey="Id">
+  <Table Name="Accounts" PrimaryKey="Case_No" >
     <Column Name="Account_no" ScramblingAlgorithm="Account_No" ></Column>
     <Column Name="Bank_Code" ScramblingAlgorithm="Standard"></Column>
     <Column Name="Descr" ScramblingAlgorithm="Standard"></Column>
     <Column Name="Appr_by" ScramblingAlgorithm="Standard"></Column>
     <Column Name="TDA_Appr" ScramblingAlgorithm="Standard"></Column>
-    <Column Name="RollBy" ScramblingAlgorithm="Standard"></Column>    
+    <Column Name="RollBy" ScramblingAlgorithm="Standard"></Column>
+    <Column Name="RollNewTransferAccount" ScramblingAlgorithm="Account_No"></Column>
   </Table>
 </ScrambleTable>

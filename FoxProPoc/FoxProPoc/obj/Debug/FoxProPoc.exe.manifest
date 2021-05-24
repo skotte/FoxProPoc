@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FoxProPoc.exe" size="9720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FoxProPoc.exe" size="12792">
       <assemblyIdentity name="FoxProPoc" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pcs9fXnzzA3bhDRs1HyAtI2Wxd8Td4H6d6sjv3S4Mdg=</dsig:DigestValue>
+        <dsig:DigestValue>MCoVwn3AW3iWiM2mjxcIkMmwf+fvwiA3bORRg8mAxoQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,13 +62,13 @@
       <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Metadata\ScramblerMapping.xml" size="556" writeableType="applicationData">
+  <file name="Metadata\ScramblerMapping.xml" size="644" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>87e6vcZdBBqjOXq2KsG8/5kB8XNQ55ITg63wwYPoBmk=</dsig:DigestValue>
+      <dsig:DigestValue>bvlGX/5Qng6hPHX8FbxsDyFw9OF98hoxjDy3z5Q8TYE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Metadata\ScramblerMapping_V1.xml" size="974" writeableType="applicationData">
